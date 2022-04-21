@@ -9,4 +9,4 @@ toyanunal/toyanunal is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Toyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=toyanunal&count_private=true)](https://github.com/toyanunal/github-readme-stats)
+[![Toyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=toyanunal&count_private=true&show_icons=true)](https://github.com/toyanunal/github-readme-stats)
