@@ -17,6 +17,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Toyan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toyanunal&border_color=000000&theme=vue&layout=compact)](https://github.com/toyanunal/github-readme-stats)
 
-<br />
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=toyanunal&repo=github_profile"/>
