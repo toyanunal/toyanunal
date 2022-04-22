@@ -7,7 +7,7 @@
 - 📫 You can find more about me and feel free to contact with me here:
 
 [![Gmail Badge](https://img.shields.io/badge/-toyanunal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:toyanunal@gmail.com)](mailto:toyanunal@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-toyanunal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toyanunal/)](https://www.linkedin.com/in/toyanunal/)
+[![Linkedin Badge](https://img.shields.io/badge/-toyanunal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toyanunal/)](https://www.linkedin.com/in/toyanunal/) \
 
 ## ⚡ Technologies
 
