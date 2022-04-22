@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Toyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=toyanunal&count_private=true&show_icons=true&hide=issues&border_color=000000&include_all_commits=True&theme=vue)](https://github.com/toyanunal/github-readme-stats)
-[![Toyan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toyanunal&border_color=000000)](https://github.com/toyanunal/github-readme-stats)
+[![Toyan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toyanunal&border_color=000000&theme=vue)](https://github.com/toyanunal/github-readme-stats)
 
