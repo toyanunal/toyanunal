@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-[![Toyan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toyanunal&border_color=000000&theme=vue&layout=compact&show_owner=True)](https://github.com/toyanunal/github-readme-stats)
+[![Toyan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toyanunal&border_color=000000&theme=vue&layout=compact)](https://github.com/toyanunal/github-readme-stats)
 
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toyanunal&repo=github-readme-stats)](https://github.com/toyanunal/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=toyanunal&repo=github_profile"/>
