@@ -14,8 +14,8 @@
 
 ## Stats ⚡
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toyanunal&count_private=true&show_icons=true&hide=issues&include_all_commits=true&theme=vue)](https://github.com/toyanunal/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toyanunal&theme=vue&layout=compact)](https://github.com/toyanunal/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toyanunal&count_private=true&show_icons=true&hide=issues&include_all_commits=true&theme=vue&width=450&height=180)](https://github.com/toyanunal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toyanunal&theme=vue&layout=compact&width=450&height=180)](https://github.com/toyanunal/github-readme-stats)
 
 
 
