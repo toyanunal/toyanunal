@@ -11,15 +11,16 @@
 
 <br />
 
-## ⚡ Technologies
+## Technologies ⚡
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
-<br />
+## Stats ⚡
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toyanunal&count_private=true&show_icons=true&hide=issues&include_all_commits=true&theme=vue)](https://github.com/toyanunal/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toyanunal&theme=vue&layout=compact)](https://github.com/toyanunal/github-readme-stats)
