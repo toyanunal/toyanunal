@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-[![Toyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=toyanunal&count_private=true&show_icons=true&hide=issues&border_color=000000&include_all_commits=True&theme=vue)](https://github.com/toyanunal/github-readme-stats)
+[![Toyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=toyanunal&count_private=true&show_icons=true&hide=issues&include_all_commits=True&theme=vue)](https://github.com/toyanunal/github-readme-stats)
 
 <br />
 
