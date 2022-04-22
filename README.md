@@ -7,8 +7,8 @@
 - 📫 You can find more about me and feel free to contact with me here:
 
      [![Gmail Badge](https://img.shields.io/badge/-toyanunal-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:toyanunal@gmail.com)](mailto:toyanunal@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-toyanunal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toyanunal/)](https://www.linkedin.com/in/toyanunal/)
-[![Github Badge](https://img.shields.io/badge/-toyanunal-blue?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/toyanunal/)](https://www.github.com/toyanunal/)
+[![Linkedin Badge](https://img.shields.io/badge/-toyanunal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toyanunal/)](https://www.linkedin.com/in/toyanunal/)
+[![Github Badge](https://img.shields.io/badge/-toyanunal-black?style=flat&logo=Github&logoColor=white&link=https://www.github.com/toyanunal/)](https://www.github.com/toyanunal/)
 
 <br />
 
