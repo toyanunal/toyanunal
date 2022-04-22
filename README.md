@@ -6,7 +6,7 @@
 - 🤝 I’m looking to collaborate on anything that includes learning and improving.
 - 📫 You can find more about me and feel free to contact with me here:
 
-     [![Gmail Badge](https://img.shields.io/badge/-toyanunal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:toyanunal@gmail.com)](mailto:toyanunal@gmail.com)
+        [![Gmail Badge](https://img.shields.io/badge/-toyanunal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:toyanunal@gmail.com)](mailto:toyanunal@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-toyanunal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toyanunal/)](https://www.linkedin.com/in/toyanunal/)
 
 <br />
@@ -18,7 +18,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
+![Wix](https://img.shields.io/badge/wix-black?style=for-the-badge&logo=wix&logoColor=white)
+
+<br />
 
 ## Stats ⚡
 
