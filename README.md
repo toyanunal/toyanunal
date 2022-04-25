@@ -15,8 +15,8 @@
 ## Technologies ⚡
 
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="40" height="40"/> </a>      
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img src="https://github.com/amido/azure-vector-icons/blob/master/icons/SQL%20Database%20(Generic).svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img src="https://github.com/amido/azure-vector-icons/blob/master/icons/SQL%20Database%20(Generic).svg" alt="sql" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="visual basic for applications" width="40" height="40"/> </a> 
 <a href="https://www.sap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sap/sap-ar21.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
