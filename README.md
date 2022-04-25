@@ -18,7 +18,10 @@
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img src="https://github.com/amido/azure-vector-icons/blob/master/icons/SQL%20Database%20(Generic).svg" alt="sql" width="40" height="40"/> </a> 
 <a href="https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="visual basic for applications" width="40" height="40"/> </a> 
 <a href="https://www.sap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sap/sap-ar21.svg" alt="sap" width="40" height="40"/> </a>
-<a href="https://www.office.com/" target="_blank"> <img src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office.svg" alt="microsoft office" width="40" height="40"/> </a> </p>
+<a href="https://www.office.com/" target="_blank"> <img src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office.svg" alt="microsoft office" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://slack.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="slack" width="40" height="40"/> </p>
 
 <br />
 
