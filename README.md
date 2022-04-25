@@ -15,7 +15,7 @@
 ## Technologies ⚡
 
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>      
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img src="https://github.com/amido/azure-vector-icons/blob/master/icons/SQL%20Database%20(Generic).svg" alt="sql" width="35" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img src="https://github.com/amido/azure-vector-icons/blob/master/icons/SQL%20Database%20(Generic).svg" alt="sql" width="33" height="40"/> </a> 
 <a href="https://www.office.com/" target="_blank"> <img src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office.svg" alt="microsoft office" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a>
