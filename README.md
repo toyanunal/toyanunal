@@ -19,9 +19,10 @@
 <a href="https://www.office.com/" target="_blank"> <img src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office.svg" alt="microsoft office" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://slack.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/> 
-<a href="https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="visual basic for applications" width="60" height="60"/> </a> 
-<a href="https://www.sap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="60" height="60"/> </a> </p>
+<a href="https://slack.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/>
+<a href="https://www.sap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/> </a>
+<a href="https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="visual basic for applications" width="40" height="40"/> </a> 
+ </p>
 
 <br />
 
