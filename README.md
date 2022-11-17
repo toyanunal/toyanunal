@@ -31,6 +31,8 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toyanunal&count_private=true&show_icons=true&hide=issues&include_all_commits=true&theme=vue)](https://github.com/toyanunal/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toyanunal&theme=vue&layout=compact)](https://github.com/toyanunal/github-readme-stats)
 
+<br />
+
 ## Kaggle Stats 📊
      
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/toyanu/competition/light)
