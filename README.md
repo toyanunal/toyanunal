@@ -40,6 +40,6 @@
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/toyanu/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/toyanu/discussion/light)
 
-     ![ToyanU](https://road-to-kaggle-grandmaster.vercel.app/api/simple/toyanu)
+![ToyanU](https://road-to-kaggle-grandmaster.vercel.app/api/simple/toyanu)
 
 
