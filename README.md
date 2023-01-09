@@ -46,8 +46,10 @@
 
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light]([github-snake.svg](https://user-images.githubusercontent.com/59750131/211345956-273fbb94-cfbc-45ac-9afd-328899777635.svg)#gh-light-mode-only)
+![GitHub Snake Dark]([github-snake-dark.svg](https://user-images.githubusercontent.com/59750131/211346464-afd2ab61-1fca-4abb-bed9-76ff35d5f0b3.svg)#gh-dark-mode-only)
      
 ![](https://user-images.githubusercontent.com/59750131/211345956-273fbb94-cfbc-45ac-9afd-328899777635.svg)
+
+![](https://user-images.githubusercontent.com/59750131/211346464-afd2ab61-1fca-4abb-bed9-76ff35d5f0b3.svg)
 
