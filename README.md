@@ -42,7 +42,7 @@
 
 ![ToyanU](https://road-to-kaggle-grandmaster.vercel.app/api/simple/toyanu)
 
+## Contributions 📢
+
 <a href="https://github.com/toyanunal"><img src="light.svg"></a>
-     
-![](https://user-images.githubusercontent.com/59750131/211345956-273fbb94-cfbc-45ac-9afd-328899777635.svg)
 
