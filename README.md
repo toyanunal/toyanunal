@@ -1,4 +1,4 @@
-## Hi There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px">
 
 - 👨 I’m Toyan Ünal from Ankara, Turkey.
 - 🌱 I’m a Computer Science RA/TA & Data Science Enthusiast.
