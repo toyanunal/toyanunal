@@ -42,9 +42,7 @@
 
 ![ToyanU](https://road-to-kaggle-grandmaster.vercel.app/api/simple/toyanu)
 
-<a href="https://github.com/tomondre"><img src="contributions.svg"></a>
-
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
+<a href="https://github.com/toyanunal"><img src="light.svg"></a>
 
 ![GitHub Snake Light]([github-snake.svg](https://user-images.githubusercontent.com/59750131/211345956-273fbb94-cfbc-45ac-9afd-328899777635.svg)#gh-light-mode-only)
 ![GitHub Snake Dark]([github-snake-dark.svg](https://user-images.githubusercontent.com/59750131/211346464-afd2ab61-1fca-4abb-bed9-76ff35d5f0b3.svg)#gh-dark-mode-only)
