@@ -45,6 +45,5 @@
 <br />
 
 ## Contributions 📢
-
 <a href="https://github.com/toyanunal"><img src="light.svg"></a>
 
