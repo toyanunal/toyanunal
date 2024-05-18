@@ -9,6 +9,7 @@
     [![Gmail Badge](https://img.shields.io/badge/-toyanunal-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:toyanunal@gmail.com)](mailto:toyanunal@gmail.com)
     [![Linkedin Badge](https://img.shields.io/badge/-toyanunal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toyanunal/)](https://www.linkedin.com/in/toyanunal/)
     [![Github Badge](https://img.shields.io/badge/-toyanunal-black?style=flat&logo=Github&logoColor=white&link=https://www.github.com/toyanunal/)](https://www.github.com/toyanunal/)
+    [![Kaggle Badge](https://img.shields.io/badge/Kaggle-View%20Profile-informational)](https://www.kaggle.com/toyanu)
 
 ## Technologies ⚡
 
@@ -29,35 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=toyanunal&count_private=true&show_icons=true&hide=issues&include_all_commits=true&theme=vue" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toyanunal&theme=vue&layout=compact" alt="Top Languages" />
 </p>
-
-## Kaggle Stats 📊
-     
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/toyanu/competition/light" alt="Kaggle Competition Badge" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/toyanu/dataset/light" alt="Kaggle Dataset Badge" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/toyanu/notebook/light" alt="Kaggle Notebook Badge" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/toyanu/discussion/light" alt="Kaggle Discussion Badge" />
-</p>
-
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/toyanu" alt="Kaggle Simple Badge" />
-</p>
-
-## Kaggle Stats 📊
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kaggle-Competition%20Expert-brightgreen" alt="Kaggle Competition Badge" />
-  <img src="https://img.shields.io/badge/Kaggle-Dataset%20Contributor-blue" alt="Kaggle Dataset Badge" />
-  <img src="https://img.shields.io/badge/Kaggle-Notebook%20Expert-yellow" alt="Kaggle Notebook Badge" />
-  <img src="https://img.shields.io/badge/Kaggle-Discussion%20Contributor-orange" alt="Kaggle Discussion Badge" />
-</p>
-
-<p align="center">
-  <a href="https://www.kaggle.com/toyanu" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-View%20Profile-informational" alt="Kaggle Profile" />
-  </a>
-</p>
-
 
 ## Contributions 📢
 
