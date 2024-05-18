@@ -43,6 +43,12 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/toyanu" alt="Kaggle Simple Badge" />
 </p>
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/toyanu/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/toyanu/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/toyanu/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/toyanu/discussion)
+
+
 ## Contributions 📢
 
 <p align="center">
