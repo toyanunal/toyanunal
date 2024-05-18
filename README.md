@@ -11,6 +11,7 @@
     [![Github Badge](https://img.shields.io/badge/-toyanunal-black?style=flat&logo=Github&logoColor=white&link=https://www.github.com/toyanunal/)](https://www.github.com/toyanunal/)
     [![Kaggle Badge](https://img.shields.io/badge/Kaggle-View%20Profile-informational)](https://www.kaggle.com/toyanu)
     [![Kaggle Badge](https://img.shields.io/badge/-toyanu-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/toyanu)](https://www.kaggle.com/toyanu)
+  [![Kaggle Badge](https://img.shields.io/badge/-toyanu-20BEFF?style=flat&logo=kaggle&logoColor=white&link=https://www.kaggle.com/toyanu)](https://www.kaggle.com/toyanu)
 
 ## Technologies ⚡
 
