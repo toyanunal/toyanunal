@@ -43,10 +43,20 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/toyanu" alt="Kaggle Simple Badge" />
 </p>
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/toyanu/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/toyanu/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/toyanu/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/toyanu/discussion)
+## Kaggle Stats 📊
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kaggle-Competition%20Expert-brightgreen" alt="Kaggle Competition Badge" />
+  <img src="https://img.shields.io/badge/Kaggle-Dataset%20Contributor-blue" alt="Kaggle Dataset Badge" />
+  <img src="https://img.shields.io/badge/Kaggle-Notebook%20Expert-yellow" alt="Kaggle Notebook Badge" />
+  <img src="https://img.shields.io/badge/Kaggle-Discussion%20Contributor-orange" alt="Kaggle Discussion Badge" />
+</p>
+
+<p align="center">
+  <a href="https://www.kaggle.com/toyanu" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-View%20Profile-informational" alt="Kaggle Profile" />
+  </a>
+</p>
 
 
 ## Contributions 📢
